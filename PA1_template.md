@@ -1,11 +1,3 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-  keep_md: true
----
-  
-  
   ## Loading and preprocessing the data
   
   If assignment data doesn't exist, extract the assignment data to the working directory and load it ito R :
